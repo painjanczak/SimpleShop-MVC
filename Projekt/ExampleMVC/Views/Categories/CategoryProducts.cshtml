@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Example.Entities.Models.Product>
+@{
+    ViewBag.Title = "CategoryProducts";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>@Html.DisplayFor(Model => Model.First().Category.Name)</h1>
+
+<table class="table">
+
+    @foreach (var item in Model)
+    {
+
+
+        <div class="col-md-4">
+            <div class="list-group">
+
+                <button type="button" class="list-group-item list-group-item-action list-group-item-info">
+                    <span class="p-cart"><p><b>@Html.DisplayFor(modelItem => item.Category.Name)</b></p></span>
+                    <span class="p-brand">@Html.DisplayFor(modelItem => item.Name)</span>
+                    <p style="text-align:right;">
+                        <span class="p-name">@Html.DisplayFor(modelItem => item.Price)</span>
+                        <span class="p-description">@Html.ActionLink("Details", "Details", "Products", new { id = item.Id }, new { @class = "btn btn-warning btn-sm" })</span>
+                        <span class="p-addc">@Html.ActionLink("Add to cart", "Add", "Products", new { id = item.Id }, new { @class = "btn btn-success btn-sm" }) </span>
+                    </p>
+                </button>
+
+            </div>
+        </div>
+    }
+</table>

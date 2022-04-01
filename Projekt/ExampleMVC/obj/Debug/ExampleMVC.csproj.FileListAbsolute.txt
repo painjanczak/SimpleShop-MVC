@@ -1,0 +1,1134 @@
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\ExampleMVC.dll.config
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\ExampleMVC.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\ExampleMVC.pdb
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\csc.exe
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\csc.exe.config
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\csc.rsp
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\csi.exe
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\csi.exe.config
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\csi.rsp
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.AppContext.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.Console.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.Globalization.Calendars.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.IO.Compression.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.Net.Http.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.Net.Sockets.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.ValueTuple.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.Xml.XPath.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\vbc.exe
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\vbc.exe.config
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\vbc.rsp
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\VBCSCompiler.exe
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Antlr3.Runtime.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\EntityFramework.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\EntityFramework.SqlServer.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.Owin.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.Owin.Security.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.Owin.Security.Google.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Newtonsoft.Json.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Owin.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\System.Web.Helpers.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\System.Web.Mvc.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\System.Web.Optimization.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\System.Web.Razor.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\System.Web.WebPages.Deployment.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\System.Web.WebPages.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\System.Web.WebPages.Razor.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\WebGrease.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\System.Web.Helpers.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\System.Web.Mvc.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\System.Web.Optimization.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\System.Web.Razor.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\System.Web.WebPages.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\System.Web.WebPages.Deployment.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\System.Web.WebPages.Razor.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Newtonsoft.Json.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Antlr3.Runtime.pdb
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\EntityFramework.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\EntityFramework.SqlServer.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.Owin.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.Owin.Security.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.Owin.Security.Google.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\obj\Debug\ExampleMVC.csprojAssemblyReference.cache
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\obj\Debug\ExampleMVC.csproj.CoreCompileInputs.cache
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\obj\Debug\ExampleMVC.csproj.CopyComplete
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\obj\Debug\ExampleMVC.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\obj\Debug\ExampleMVC.pdb
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Example.DataAccessLayer.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Example.Entities.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Example.DataAccessLayer.pdb
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Example.DataAccessLayer.dll.config
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Example.Entities.pdb
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Example.Entities.dll.config
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\System.Threading.Tasks.Extensions.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Unity.Abstractions.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Unity.Container.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Unity.Mvc.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\WebActivatorEx.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\System.Threading.Tasks.Extensions.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Unity.Abstractions.pdb
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Unity.Container.pdb
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Unity.Mvc.pdb
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\ExampleMVC\bin\Unity.Mvc.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.dll.config
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.pdb
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.exe
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.exe.config
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.rsp
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.exe
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.exe.config
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.rsp
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Managed.Core.targets
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.AppContext.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Collections.Immutable.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Console.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Globalization.Calendars.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.Compression.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.FileSystem.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Net.Http.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Net.Sockets.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Reflection.Metadata.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.ValueTuple.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XmlDocument.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XPath.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.exe
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.exe.config
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.rsp
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\VBCSCompiler.exe
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\roslyn\VBCSCompiler.exe.config
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Antlr3.Runtime.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\EntityFramework.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\EntityFramework.SqlServer.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Example.Entities.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Core.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Cookies.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Facebook.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Google.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.OAuth.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Twitter.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.Web.Infrastructure.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Newtonsoft.Json.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Owin.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\System.Runtime.CompilerServices.Unsafe.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\System.Threading.Tasks.Extensions.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\System.Web.Helpers.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\System.Web.Mvc.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\System.Web.Optimization.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\System.Web.Razor.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Deployment.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Razor.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Unity.Abstractions.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Unity.Container.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\WebActivatorEx.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\WebGrease.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.pdb
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.dll.config
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Example.Entities.pdb
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Example.Entities.dll.config
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\EntityFramework.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\EntityFramework.SqlServer.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\System.Runtime.CompilerServices.Unsafe.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\System.Threading.Tasks.Extensions.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\System.Web.Helpers.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\System.Web.Mvc.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\System.Web.Optimization.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\System.Web.Razor.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Deployment.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Razor.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Newtonsoft.Json.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Unity.Abstractions.pdb
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Unity.Container.pdb
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.pdb
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Antlr3.Runtime.pdb
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Core.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Facebook.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Cookies.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Google.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Twitter.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.OAuth.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csproj.AssemblyReference.cache
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csproj.CoreCompileInputs.cache
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csproj.CopyComplete
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.pdb
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.dll.config
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.pdb
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.exe
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.exe.config
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.rsp
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.exe
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.exe.config
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.rsp
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.AppContext.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Console.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.exe
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.exe.config
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.rsp
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Antlr3.Runtime.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\EntityFramework.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Example.Entities.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Newtonsoft.Json.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Owin.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\System.Web.Helpers.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\System.Web.Mvc.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\System.Web.Optimization.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\System.Web.Razor.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Unity.Abstractions.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Unity.Container.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\WebActivatorEx.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\WebGrease.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.pdb
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.dll.config
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Example.Entities.pdb
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Example.Entities.dll.config
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\EntityFramework.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\System.Web.Helpers.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\System.Web.Mvc.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\System.Web.Optimization.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\System.Web.Razor.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Newtonsoft.Json.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Unity.Abstractions.pdb
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Unity.Container.pdb
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.pdb
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Antlr3.Runtime.pdb
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csproj.AssemblyReference.cache
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csproj.CoreCompileInputs.cache
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csproj.CopyComplete
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.dll
+C:\Users\barto\Desktop\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.pdb
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.dll.config
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.pdb
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.exe
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.exe.config
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.rsp
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.exe
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.exe.config
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.rsp
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.AppContext.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Console.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Globalization.Calendars.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.Compression.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Net.Http.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Net.Sockets.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.ValueTuple.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XPath.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.exe
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.exe.config
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.rsp
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\VBCSCompiler.exe
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Antlr3.Runtime.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\EntityFramework.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\EntityFramework.SqlServer.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Example.Entities.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Google.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Newtonsoft.Json.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Owin.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Threading.Tasks.Extensions.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Helpers.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Mvc.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Optimization.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Razor.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Deployment.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Razor.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Unity.Abstractions.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Unity.Container.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\WebActivatorEx.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\WebGrease.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.pdb
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.dll.config
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Example.Entities.pdb
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Example.Entities.dll.config
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\EntityFramework.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\EntityFramework.SqlServer.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Threading.Tasks.Extensions.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Helpers.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Mvc.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Optimization.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Razor.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Deployment.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Razor.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Newtonsoft.Json.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Unity.Abstractions.pdb
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Unity.Container.pdb
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.pdb
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Antlr3.Runtime.pdb
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Google.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csprojAssemblyReference.cache
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csproj.CoreCompileInputs.cache
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csproj.CopyComplete
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.dll
+D:\Sklep komputerowy\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.pdb
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.dll.config
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.pdb
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.exe
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.exe.config
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.rsp
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.exe
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.exe.config
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.rsp
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.AppContext.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Console.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.exe
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.exe.config
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.rsp
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Antlr3.Runtime.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\EntityFramework.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Example.Entities.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Newtonsoft.Json.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Owin.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Helpers.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Mvc.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Optimization.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Razor.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Unity.Abstractions.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Unity.Container.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\WebActivatorEx.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\WebGrease.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.pdb
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.dll.config
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Example.Entities.pdb
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Example.Entities.dll.config
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\EntityFramework.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Helpers.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Mvc.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Optimization.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Razor.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Newtonsoft.Json.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Unity.Abstractions.pdb
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Unity.Container.pdb
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.pdb
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Antlr3.Runtime.pdb
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csproj.AssemblyReference.cache
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csproj.CoreCompileInputs.cache
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csproj.CopyComplete
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.dll
+C:\Users\barto\Downloads\Sklep komputerowy\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.pdb
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.dll.config
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.pdb
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.exe
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.exe.config
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.rsp
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.exe
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.exe.config
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.rsp
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.AppContext.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Console.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Globalization.Calendars.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.Compression.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Net.Http.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Net.Sockets.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.ValueTuple.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XPath.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.exe
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.exe.config
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.rsp
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\VBCSCompiler.exe
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Antlr3.Runtime.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\EntityFramework.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\EntityFramework.SqlServer.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Example.Entities.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Google.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Newtonsoft.Json.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Owin.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Threading.Tasks.Extensions.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Helpers.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Mvc.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Optimization.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Razor.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Deployment.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Razor.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Unity.Abstractions.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Unity.Container.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\WebActivatorEx.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\WebGrease.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.pdb
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.dll.config
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Example.Entities.pdb
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Example.Entities.dll.config
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\EntityFramework.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\EntityFramework.SqlServer.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Threading.Tasks.Extensions.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Helpers.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Mvc.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Optimization.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.Razor.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Deployment.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Razor.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Newtonsoft.Json.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Unity.Abstractions.pdb
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Unity.Container.pdb
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.pdb
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Antlr3.Runtime.pdb
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Google.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csprojAssemblyReference.cache
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csproj.CoreCompileInputs.cache
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csproj.CopyComplete
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.pdb
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.dll.config
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.pdb
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.exe
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.exe.config
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.rsp
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.exe
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.exe.config
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.rsp
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.AppContext.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Console.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Globalization.Calendars.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.Compression.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Net.Http.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Net.Sockets.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.ValueTuple.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XPath.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.exe
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.exe.config
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.rsp
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\VBCSCompiler.exe
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Antlr3.Runtime.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\EntityFramework.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\EntityFramework.SqlServer.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Example.Entities.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Google.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Newtonsoft.Json.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Owin.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\System.Threading.Tasks.Extensions.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\System.Web.Helpers.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\System.Web.Mvc.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\System.Web.Optimization.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\System.Web.Razor.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Deployment.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Razor.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Unity.Abstractions.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Unity.Container.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\WebActivatorEx.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\WebGrease.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.pdb
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.dll.config
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Example.Entities.pdb
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Example.Entities.dll.config
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\EntityFramework.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\EntityFramework.SqlServer.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\System.Threading.Tasks.Extensions.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\System.Web.Helpers.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\System.Web.Mvc.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\System.Web.Optimization.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\System.Web.Razor.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Deployment.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Razor.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Newtonsoft.Json.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Unity.Abstractions.pdb
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Unity.Container.pdb
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.pdb
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Antlr3.Runtime.pdb
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Google.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csprojAssemblyReference.cache
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csproj.CoreCompileInputs.cache
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csproj.CopyComplete
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.pdb
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.dll.config
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.pdb
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.exe
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.exe.config
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.rsp
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.exe
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.exe.config
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.rsp
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.AppContext.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Console.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Globalization.Calendars.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.Compression.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Net.Http.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Net.Sockets.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.ValueTuple.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XPath.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.exe
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.exe.config
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.rsp
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\VBCSCompiler.exe
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Antlr3.Runtime.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\EntityFramework.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\EntityFramework.SqlServer.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Example.Entities.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Google.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Newtonsoft.Json.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Owin.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Threading.Tasks.Extensions.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.Helpers.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.Mvc.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.Optimization.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.Razor.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Deployment.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Razor.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Unity.Abstractions.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Unity.Container.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\WebActivatorEx.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\WebGrease.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.pdb
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.dll.config
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Example.Entities.pdb
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Example.Entities.dll.config
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\EntityFramework.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\EntityFramework.SqlServer.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Threading.Tasks.Extensions.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.Helpers.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.Mvc.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.Optimization.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.Razor.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Deployment.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Razor.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Newtonsoft.Json.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Unity.Abstractions.pdb
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Unity.Container.pdb
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.pdb
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Antlr3.Runtime.pdb
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Google.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csprojAssemblyReference.cache
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csproj.CoreCompileInputs.cache
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csproj.CopyComplete
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.pdb
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.dll.config
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\ExampleMVC.pdb
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.exe
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.exe.config
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\csc.rsp
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.exe
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.exe.config
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\csi.rsp
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Managed.Core.targets
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.AppContext.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Collections.Immutable.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Console.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Globalization.Calendars.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.Compression.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.FileSystem.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Net.Http.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Net.Sockets.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.ValueTuple.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XmlDocument.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XPath.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.exe
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.exe.config
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\vbc.rsp
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\VBCSCompiler.exe
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\roslyn\VBCSCompiler.exe.config
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Antlr3.Runtime.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\EntityFramework.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\EntityFramework.SqlServer.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Example.Entities.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Core.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Cookies.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Facebook.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Google.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.OAuth.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Twitter.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Newtonsoft.Json.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Owin.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Threading.Tasks.Extensions.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.Helpers.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.Mvc.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.Optimization.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.Razor.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Deployment.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Razor.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Unity.Abstractions.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Unity.Container.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\WebActivatorEx.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\WebGrease.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.pdb
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Example.DataAccessLayer.dll.config
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Example.Entities.pdb
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Example.Entities.dll.config
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\EntityFramework.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\EntityFramework.SqlServer.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Threading.Tasks.Extensions.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.Helpers.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.Mvc.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.Optimization.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.Razor.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Deployment.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\System.Web.WebPages.Razor.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Newtonsoft.Json.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Unity.Abstractions.pdb
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Unity.Container.pdb
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.pdb
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Unity.Mvc.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Antlr3.Runtime.pdb
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Core.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Facebook.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Cookies.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Google.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.Twitter.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.Owin.Security.OAuth.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csproj.AssemblyReference.cache
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csproj.CoreCompileInputs.cache
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.csproj.CopyComplete
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\ExampleMVC\obj\Debug\ExampleMVC.pdb

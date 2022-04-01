@@ -1,0 +1,62 @@
+﻿@using ExampleMVC.Models
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Koszyk</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.Display("Product")
+        </th>
+        <th>
+            @Html.Display("Price")
+        </th>
+        <th>
+            @Html.Display("Quantity")
+        </th>
+        <th></th>
+    </tr>
+    @if (ViewBag.Price != 0 && ViewBag.Price != null) {
+        foreach (var item in (List<CartViewModel>)Session["cart"])
+        {
+            <tr>
+                <td>
+                    @item.product.Name
+                </td>
+                <td>
+                    @item.product.Price
+                </td>
+                <td>
+                    @item.quantity
+                </td>
+                <td>
+                    @Html.ActionLink("Delete", "DeleteFromCart", "Products", new { id = item.product.Id }, new { @class = "btn btn-danger btn-sm" })
+                </td>
+            </tr>
+        }
+    }
+    <tr>
+        <th>
+            <p>Total price</p>
+        </th>
+        <th>
+            @ViewBag.Price
+        </th>
+        <th></th>
+    </tr>
+    <p>
+        @Html.ActionLink("Continue shopping", "Index", "Products", new { @class = "btn btn-primary btn-sm" })
+    </p>
+    <p>
+        @if (ViewBag.Price != 0 && ViewBag.Price != null)
+        {
+            <button class = "btn btn-success btn-sm" onclick="location.href='@Url.Action("Create", "Orders")';return false;"> Order</button>
+            
+        }
+    </p>
+</table>
+

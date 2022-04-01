@@ -1,0 +1,155 @@
+D:\tnai\ExampleAPI\Example.Entities\bin\Debug\Example.Entities.dll
+D:\tnai\ExampleAPI\Example.Entities\bin\Debug\Example.Entities.pdb
+D:\tnai\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.csprojAssemblyReference.cache
+D:\tnai\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.csproj.CoreCompileInputs.cache
+D:\tnai\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.dll
+D:\tnai\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.pdb
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.Entities\bin\Debug\Example.Entities.dll.config
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.Entities\bin\Debug\Example.Entities.dll
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.Entities\bin\Debug\Example.Entities.pdb
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.Entities\bin\Debug\EntityFramework.dll
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.Entities\bin\Debug\EntityFramework.SqlServer.dll
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.Entities\bin\Debug\EntityFramework.xml
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.Entities\bin\Debug\EntityFramework.SqlServer.xml
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.csproj.AssemblyReference.cache
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.csproj.CoreCompileInputs.cache
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.csproj.CopyComplete
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.dll
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.pdb
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.Migrations.Init.resources
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.csproj.GenerateResource.cache
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.Entities\bin\Debug\Example.Entities.dll.config
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.Entities\bin\Debug\Example.Entities.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.Entities\bin\Debug\Example.Entities.pdb
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.Entities\bin\Debug\EntityFramework.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.Entities\bin\Debug\EntityFramework.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.Migrations.Init.resources
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.csproj.GenerateResource.cache
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.csproj.CoreCompileInputs.cache
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.csproj.CopyComplete
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.pdb
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.csprojAssemblyReference.cache
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.Migrations.identity.resources
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.Entities\bin\Debug\Example.Entities.dll.config
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.Entities\bin\Debug\Example.Entities.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.Entities\bin\Debug\Example.Entities.pdb
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.SqlServer.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.SqlServer.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csproj.AssemblyReference.cache
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.Migrations.Init.resources
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.Migrations.identity.resources
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csproj.GenerateResource.cache
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csproj.CoreCompileInputs.cache
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csproj.CopyComplete
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.pdb
+C:\Users\barto\Desktop\Sklep komputerowy\Example.Entities\bin\Debug\Example.Entities.dll.config
+C:\Users\barto\Desktop\Sklep komputerowy\Example.Entities\bin\Debug\Example.Entities.dll
+C:\Users\barto\Desktop\Sklep komputerowy\Example.Entities\bin\Debug\Example.Entities.pdb
+C:\Users\barto\Desktop\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.dll
+C:\Users\barto\Desktop\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\barto\Desktop\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\barto\Desktop\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\barto\Desktop\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.xml
+C:\Users\barto\Desktop\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\barto\Desktop\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\barto\Desktop\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\barto\Desktop\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.Migrations.Init.resources
+C:\Users\barto\Desktop\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csproj.GenerateResource.cache
+C:\Users\barto\Desktop\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csproj.CoreCompileInputs.cache
+C:\Users\barto\Desktop\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csproj.CopyComplete
+C:\Users\barto\Desktop\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.dll
+C:\Users\barto\Desktop\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.pdb
+C:\Users\barto\Desktop\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.Migrations.identity.resources
+C:\Users\barto\Desktop\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.Migrations.test.resources
+C:\Users\barto\Desktop\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.Migrations.test1.resources
+C:\Users\barto\Desktop\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csproj.AssemblyReference.cache
+D:\Sklep komputerowy\Sklep komputerowy\Example.Entities\bin\Debug\Example.Entities.dll.config
+D:\Sklep komputerowy\Sklep komputerowy\Example.Entities\bin\Debug\Example.Entities.dll
+D:\Sklep komputerowy\Sklep komputerowy\Example.Entities\bin\Debug\Example.Entities.pdb
+D:\Sklep komputerowy\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.dll
+D:\Sklep komputerowy\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sklep komputerowy\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Sklep komputerowy\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Sklep komputerowy\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.xml
+D:\Sklep komputerowy\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sklep komputerowy\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Sklep komputerowy\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Sklep komputerowy\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csprojAssemblyReference.cache
+D:\Sklep komputerowy\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.Migrations.Init.resources
+D:\Sklep komputerowy\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csproj.GenerateResource.cache
+D:\Sklep komputerowy\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csproj.CoreCompileInputs.cache
+D:\Sklep komputerowy\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csproj.CopyComplete
+D:\Sklep komputerowy\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.dll
+D:\Sklep komputerowy\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.pdb
+D:\Sklep komputerowy\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.Migrations.test_migration.resources
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.Entities\bin\Debug\Example.Entities.dll.config
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.Entities\bin\Debug\Example.Entities.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.Entities\bin\Debug\Example.Entities.pdb
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csprojAssemblyReference.cache
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.Migrations.Init.resources
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csproj.GenerateResource.cache
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csproj.CoreCompileInputs.cache
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csproj.CopyComplete
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.pdb
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.Migrations.test1302.resources
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.Entities\bin\Debug\Example.Entities.dll.config
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.Entities\bin\Debug\Example.Entities.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.Entities\bin\Debug\Example.Entities.pdb
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csprojAssemblyReference.cache
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.Migrations.Init.resources
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csproj.GenerateResource.cache
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csproj.CoreCompileInputs.cache
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csproj.CopyComplete
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.pdb
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.Migrations.testmig4.resources
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.Entities\bin\Debug\Example.Entities.dll.config
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.Entities\bin\Debug\Example.Entities.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.Entities\bin\Debug\Example.Entities.pdb
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.SqlServer.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.Entities\bin\Debug\EntityFramework.SqlServer.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csproj.AssemblyReference.cache
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.Migrations.Init.resources
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.Migrations.testmig4.resources
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csproj.GenerateResource.cache
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csproj.CoreCompileInputs.cache
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.csproj.CopyComplete
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.Entities\obj\Debug\Example.Entities.pdb

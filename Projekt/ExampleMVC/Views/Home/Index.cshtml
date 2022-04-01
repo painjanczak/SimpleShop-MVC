@@ -1,0 +1,35 @@
+﻿@using Microsoft
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>E-Computer</h1>
+    <p class="lead">E-Computer to internetowy sklep zawierający sprzęt komputerowy.</p>
+    <p><a class="btn btn-success btn-lg" @Html.ActionLink("About us!", "About", "Home")</a></p>
+</div>
+
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Co u nas</h2>
+        <p>
+            Dysponujemy szerokim asortymentem sprzętu komputerowego. Sprawdź sam!
+        </p>
+        <p><a class="btn btn-info" @Html.ActionLink("Produkty", "Index", "Products")</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Kategorie sprzętu</h2>
+        <p>Interesują Cię konkretne kategorie sprzętu komputerowego? Wybierz!</p>
+        <p><a class="btn btn-info" @Html.ActionLink("Kategorie", "Index", "Categories")</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Zamówienia</h2>
+        <p>W każdej chwili możesz przejść do swoich zamówień!</p>
+        <p>
+            <a class="btn btn-info"
+               @Html.ActionLink("Zamówienia", "Index", "Orders")
+            </a>
+        </p>
+    </div>
+</div>

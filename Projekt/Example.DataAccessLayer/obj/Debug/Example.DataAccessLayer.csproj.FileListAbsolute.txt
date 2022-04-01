@@ -1,0 +1,145 @@
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.dll.config
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.dll
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.pdb
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.DataAccessLayer\bin\Debug\EntityFramework.dll
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.DataAccessLayer\bin\Debug\EntityFramework.xml
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.AssemblyReference.cache
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.CoreCompileInputs.cache
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.CopyComplete
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.dll
+K:\Studenci\PK\Prywatne\296755\tnai\tnai\ExampleAPI\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.pdb
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.dll.config
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.pdb
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.DataAccessLayer\bin\Debug\Example.Entities.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.DataAccessLayer\bin\Debug\Example.Entities.pdb
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.DataAccessLayer\bin\Debug\Example.Entities.dll.config
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csprojAssemblyReference.cache
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.CopyComplete
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.pdb
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\STUDIA\4 ROK\tnai\tnai\tnai\ExampleAPI\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.dll.config
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.pdb
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.Entities.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.Entities.pdb
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.Entities.dll.config
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.AssemblyReference.cache
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.CoreCompileInputs.cache
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.CopyComplete
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.dll
+B:\studia\IV rok\nowoczesne_aplikacje\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.pdb
+C:\Users\barto\Desktop\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.dll.config
+C:\Users\barto\Desktop\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.dll
+C:\Users\barto\Desktop\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.pdb
+C:\Users\barto\Desktop\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\barto\Desktop\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\barto\Desktop\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.Entities.dll
+C:\Users\barto\Desktop\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\barto\Desktop\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\barto\Desktop\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.Entities.pdb
+C:\Users\barto\Desktop\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.Entities.dll.config
+C:\Users\barto\Desktop\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\barto\Desktop\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\barto\Desktop\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\barto\Desktop\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\barto\Desktop\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\barto\Desktop\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\barto\Desktop\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.CopyComplete
+C:\Users\barto\Desktop\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.dll
+C:\Users\barto\Desktop\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.pdb
+D:\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.dll.config
+D:\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.dll
+D:\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.pdb
+D:\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.Entities.dll
+D:\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.Entities.pdb
+D:\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.Entities.dll.config
+D:\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csprojAssemblyReference.cache
+D:\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.CopyComplete
+D:\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.dll
+D:\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.pdb
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.dll.config
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.pdb
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.Entities.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.Entities.pdb
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.Entities.dll.config
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csprojAssemblyReference.cache
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.CopyComplete
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.dll
+D:\proj\Sklep komputerowy\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.pdb
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.dll.config
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.pdb
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.Entities.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.Entities.pdb
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.Entities.dll.config
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csprojAssemblyReference.cache
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.CopyComplete
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.dll
+D:\proj\Sklep komputerowy\TEST\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.pdb
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.dll.config
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.pdb
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.Entities.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.Entities.pdb
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Example.Entities.dll.config
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.AssemblyReference.cache
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.CopyComplete
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.dll
+E:\STUDIA\4 ROK\tnai\tnai\tnai\Sklep alpha 1.0\Sklep komputerowy\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.pdb
